@@ -1,0 +1,7 @@
+{
+  "name": "Sabia Gestão de Editais",
+  "description": "Sistema avançado de gestão de editais culturais com análise inteligente de PDFs via Gemini AI, gestão de clientes e acompanhamento de projetos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
